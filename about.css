@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(185, 151, 218);
+}
+.section-title {
+	color: rgb(187, 15, 87);
+	margin-top: 30px;
+	padding: 15px 0px 0px 0px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid rgb(155, 12, 12);
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-size: 40px;
+	background-color: rgb(183, 238, 220);
+}
+h3{
+	font-size: 18px;
+	color: rgb(2, 36, 17);
+	font-family: sans-serif;
+}
+p{
+	color: rgb(8, 5, 5);
+	font-size: 19px;
+	font-family: sans-serif;
+}
+li{
+	color: rgb(23, 5, 121);
+	font-size: 20px;
+	font-style: italic;
+}
